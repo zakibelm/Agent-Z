@@ -1,0 +1,14 @@
+2025-09-02 03:06:51.946 [info] 
+
+
+
+
+2025-09-02 03:06:51.965 [info] Extension host agent started.
+2025-09-02 03:06:51.984 [info] Started initializing default profile extensions in extensions installation folder. file:///home/zakibelm66/.codeoss/extensions
+2025-09-02 03:06:51.992 [info] ComputeTargetPlatform: linux-x64
+2025-09-02 03:06:52.003 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/zakibelm66/.codeoss/extensions
+2025-09-02 03:06:54.812 [info] [127.0.0.1][ba27f638][ManagementConnection] New connection established.
+2025-09-02 03:06:54.815 [info] [127.0.0.1][5d8bb581][ExtensionHostConnection] New connection established.
+2025-09-02 03:06:56.580 [info] [127.0.0.1][5d8bb581][ExtensionHostConnection] <1285> Launched Extension Host Process.
+2025-09-02 03:08:30.562 [info] [127.0.0.1][ba27f638][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-09-02 03:08:30.784 [info] [127.0.0.1][5d8bb581][ExtensionHostConnection] <1285> Extension Host Process exited with code: 0, signal: null.
